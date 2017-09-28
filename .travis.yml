@@ -76,3 +76,9 @@ addons:
     paths:
       - .karma/
       - ./mocha.js
+
+cache:
+  directories:
+    - ~/.npm
+
+
