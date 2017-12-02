@@ -1,6 +1,6 @@
 {
-  "name": "mocha",
-  "version": "4.0.1",
+  "name": "mocha-no-hooks-tick",
+  "version": "1.0.0",
   "description": "simple, flexible, fun test framework",
   "keywords": [
     "mocha",
